@@ -18,7 +18,7 @@ Tech used :
           * Cloudinary (To host uploaded images on CDN)
           
           
- [Live Heroku Deployment](https://twitter-replit.tydurgin.repl.co/)
+ [Live Heroku Deployment](https://twitter-clone.moniquerhodes.repl.co/)
  
  
 ##Screenshot. 
@@ -28,7 +28,7 @@ Tech used :
 
 
 
-![Screenshot 2022-10-04 12 12 43 PM](https://user-images.githubusercontent.com/105753588/193906022-4b0f677b-edcd-4dc4-ad89-62c880ec0d73.png)
 
+![Screenshot 2022-10-26 at 12 01 33 PM](https://user-images.githubusercontent.com/111408816/197952046-e27b1085-0d1c-455e-b5cf-254bac2cf3b1.png)
 
 
