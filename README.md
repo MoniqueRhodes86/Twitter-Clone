@@ -18,10 +18,10 @@ Tech used :
           * Cloudinary (To host uploaded images on CDN)
           
           
- [Live Heroku Deployment](https://twitter-clone.moniquerhodes.repl.co/)
+ [Live Replit Deployment](https://twitter-clone.moniquerhodes.repl.co/)
  
  
-##Screenshot. 
+Screenshot. 
 
 
 
